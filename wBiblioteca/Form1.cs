@@ -10,6 +10,13 @@ using System.Windows.Forms;
 using System.Data.SqlClient;
 using System.IO;
 
+
+/// <summary>
+/// Fecha: 18/05/2022
+/// Autores: Natalia Usuga, Maicol Arroyave, Sara Daniela Parra
+/// Descripcion: ingreso bliblioteca
+/// </summary>
+
 namespace wBiblioteca
 {
     public partial class frmBiblioteca : Form
